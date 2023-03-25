@@ -5,4 +5,4 @@
 
 # Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=bootstrap,vue,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,androidstudio,flutter,dart,python,c,linux,vscode&perline=6">
+<img src="https://skillicons.dev/icons?i=bootstrap,vue,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,androidstudio,flutter,dart,python,c,linux,vscode&perline=12">
