@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👀, I'm Sovmulax</h1>
-💬 About me : **All I want is to collect skills**
+## 💬 About me : All I want is to collect skills
 
 # Languages and Tools
 
