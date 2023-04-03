@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👀, I'm Sovmulax</h1>
-<img src="https://komarev.com/ghpvc/?username=sovmulax&label=Profile%20views&color=0e75b6&style=flat" alt="sovmulax" />
-
-- 💬 Ask me about : **All I want is to collect skills**
+## 💬 About me : All I want is to collect skills
 
 # Languages and Tools
 
