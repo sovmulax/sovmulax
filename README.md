@@ -1,6 +1,6 @@
 # Hi 👀, I'm Sovmulax
 
-## 💬 About me : All I want is to collect skills
+## 💬 About me : All I want is to collect skills and earned money
 
 ## Languages and Tools
 
