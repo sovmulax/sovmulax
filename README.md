@@ -1,5 +1,6 @@
 # Hi 👀, I'm Sovmulax
-[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax)
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/sovmulax.svg)](https://user-badge.committers.top/ivory_coast_private/sovmulax) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sovmulax)
+
 ## 💬 About me : All I want is to collect skills
 ## Languages and Tools
 
