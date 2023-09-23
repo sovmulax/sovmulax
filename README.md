@@ -17,5 +17,3 @@
 [![Web](https://skillicons.dev/icons?i=figma,xd,linkedin,devto,discord,twitter,ai&perline=13)][def]
 
 [![Tools](https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,postman,docker,firebase&perline=13)][def
-
-[def]: https://skillicons.dev
