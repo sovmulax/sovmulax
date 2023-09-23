@@ -4,16 +4,4 @@
 ## 💬 About me : All I want is to collect skills
 ## Languages and Tools
 
-[![Back-end](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,sequelize,django&perline=13)][def]
-
-[![Front-end](https://skillicons.dev/icons?i=bootstrap,css,html,vue,nuxtjs,materialui,js&perline=13)][def]
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=13)][def]
-
-[![Languages](https://skillicons.dev/icons?i=python,c&perline=13)][def]
-
-[![Mobile](https://skillicons.dev/icons?i=androidstudio,flutter,dart&perline=13)][def]
-
-[![Web](https://skillicons.dev/icons?i=figma,xd,linkedin,devto,discord,twitter,ai&perline=13)][def]
-
-[![Tools](https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,postman,docker,firebase&perline=13)][def]
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,vue,materialui,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,sequelize,androidstudio,flutter,dart,python,c,linux,vscode,linkedin,devto,discord,twitter,ai,docker,postman,stackoverflow,django,postgres,redis&perline=13)][def]
