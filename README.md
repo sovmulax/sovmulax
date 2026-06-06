@@ -1,7 +1,5 @@
 <div align="center">
 
-# Géoffroy Evane
-
 **Développeur Web · Mobile · AI Engineer**
 
 Côte d'Ivoire, Abidjan &nbsp;·&nbsp; Disponible · Ouvert aux projets
