@@ -1,3 +1,33 @@
-# Hi 👀, I'm Sovmulax
-## 💬 About me : All I want is to collect skills
-![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,vue,materialui,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,sequelize,androidstudio,flutter,dart,python,c,linux,vscode,anaconda,linkedin,devto,discord,twitter,ai,docker,postman,stackoverflow,django,postgres,redis,notion,apple,markdown,sklearn,pytorch,nginx,ts,tailwind&perline=12)
+<div align="center">
+
+# Géoffroy Evane
+
+**Développeur Web · Mobile · AI Engineer**
+
+Côte d'Ivoire, Abidjan &nbsp;·&nbsp; Disponible · Ouvert aux projets
+
+[![Portfolio](https://img.shields.io/badge/sovmulax.com-000?style=flat-square&logo=safari&logoColor=white)](https://sovmulax.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geoffroy-evane-soumaila-2317ab198/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumailaevane@gmail.com)
+
+</div>
+
+---
+
+Passionné par la conception d'expériences numériques innovantes. Je conçois et développe des produits web, mobile et intelligents — du concept à la mise en production.
+
+**5+ années** d'expérience &nbsp;·&nbsp; **20+ projets** réalisés &nbsp;·&nbsp; **17+ certifications**
+
+---
+
+### Stack
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,vue,materialui,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,sequelize,androidstudio,flutter,dart,python,c,linux,vscode,anaconda,linkedin,devto,discord,twitter,ai,docker,postman,stackoverflow,django,postgres,redis,notion,apple,markdown,sklearn,pytorch,nginx,ts,tailwind&perline=24)
+
+---
+
+<div align="center">
+
+*« La connaissance s'acquiert par l'expérience, tout le reste n'est que de l'information. »*
+
+</div>
