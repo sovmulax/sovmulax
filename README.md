@@ -10,8 +10,6 @@
 
 ---
 
-Passionné par la conception d'expériences numériques innovantes. Je conçois et développe des produits web, mobile et intelligents — du concept à la mise en production.
-
 **5+ années** d'expérience &nbsp;·&nbsp; **20+ projets** réalisés &nbsp;·&nbsp; **17+ certifications**
 
 ---
@@ -19,11 +17,5 @@ Passionné par la conception d'expériences numériques innovantes. Je conçois 
 ### Stack
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,vue,materialui,js,nuxtjs,figma,xd,git,github,githubactions,nodejs,express,php,laravel,mongodb,firebase,mysql,sqlite,sequelize,androidstudio,flutter,dart,python,c,linux,vscode,anaconda,linkedin,devto,discord,twitter,ai,docker,postman,stackoverflow,django,postgres,redis,notion,apple,markdown,sklearn,pytorch,nginx,ts,tailwind&perline=24)
-
----
-
-<div align="center">
-
-*« La connaissance s'acquiert par l'expérience, tout le reste n'est que de l'information. »*
 
 </div>
